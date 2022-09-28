@@ -3,10 +3,10 @@
   <groupId>ar.com.sdc.sobio</groupId>
   <artifactId>sobio-api-client</artifactId>
   <versioning>
-    <release>20220928.b0865fa</release>
+    <release>20220928.eff8bad</release>
     <versions>
-      <version>20220928.b0865fa</version>
+      <version>20220928.eff8bad</version>
     </versions>
-    <lastUpdated>20220928105142</lastUpdated>
+    <lastUpdated>20220928125622</lastUpdated>
   </versioning>
 </metadata>
