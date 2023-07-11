@@ -3,11 +3,13 @@
   <groupId>ar.com.sdc.sobio</groupId>
   <artifactId>sobio-api-client</artifactId>
   <versioning>
-    <release>20220928.266b49a</release>
+    <release>20230711.23431d1</release>
     <versions>
       <version>20220928.2a5b95b</version>
       <version>20220928.266b49a</version>
+      <version>20230711.db8e20b</version>
+      <version>20230711.23431d1</version>
     </versions>
-    <lastUpdated>20230614175925</lastUpdated>
+    <lastUpdated>20230711200716</lastUpdated>
   </versioning>
 </metadata>
