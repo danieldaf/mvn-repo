@@ -3,11 +3,12 @@
   <groupId>com.securbase.dev</groupId>
   <artifactId>votingClassifier-api-client</artifactId>
   <versioning>
-    <release>20240201.7aba103</release>
+    <release>20240201.7bce2ca</release>
     <versions>
       <version>20240201.0da1e5c</version>
       <version>20240201.7aba103</version>
+      <version>20240201.7bce2ca</version>
     </versions>
-    <lastUpdated>20240201134141</lastUpdated>
+    <lastUpdated>20240201171355</lastUpdated>
   </versioning>
 </metadata>
