@@ -5,7 +5,7 @@
     <artifactId>votingClassifier-api-client</artifactId>
     <packaging>jar</packaging>
     <name>votingClassifier-api-client</name>
-    <version>20240201.08ad2fe</version>
+    <version>20240206.332a171</version>
     <url>https://github.com/openapitools/openapi-generator</url>
     <description>OpenAPI Java</description>
     <scm>
