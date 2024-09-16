@@ -3,7 +3,7 @@
   <groupId>ar.com.sdc.sobio</groupId>
   <artifactId>sobio-api-client</artifactId>
   <versioning>
-    <release>20240722.47164a1</release>
+    <release>20240916.2a58a3b</release>
     <versions>
       <version>20220928.2a5b95b</version>
       <version>20220928.266b49a</version>
@@ -12,7 +12,8 @@
       <version>20230811_supervielleMigracion.0c39e8c</version>
       <version>20230823_supervielleMigracion.636bfad</version>
       <version>20240722.47164a1</version>
+      <version>20240916.2a58a3b</version>
     </versions>
-    <lastUpdated>20240722175311</lastUpdated>
+    <lastUpdated>20240916200834</lastUpdated>
   </versioning>
 </metadata>
