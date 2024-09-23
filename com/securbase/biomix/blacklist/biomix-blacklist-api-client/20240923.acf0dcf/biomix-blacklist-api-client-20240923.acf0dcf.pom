@@ -5,7 +5,7 @@
     <artifactId>biomix-blacklist-api-client</artifactId>
     <packaging>jar</packaging>
     <name>biomix-blacklist-api-client</name>
-    <version>20240923.acf0dcf</version>
+    <version>20240923.12261bd</version>
     <description>Biomix BlackList Java API</description>
 
     <distributionManagement>
