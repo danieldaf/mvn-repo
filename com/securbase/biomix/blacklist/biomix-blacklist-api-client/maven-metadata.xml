@@ -3,10 +3,11 @@
   <groupId>com.securbase.biomix.blacklist</groupId>
   <artifactId>biomix-blacklist-api-client</artifactId>
   <versioning>
-    <release>20240923.acf0dcf</release>
+    <release>20240925.2820f8c</release>
     <versions>
       <version>20240923.acf0dcf</version>
+      <version>20240925.2820f8c</version>
     </versions>
-    <lastUpdated>20240923195128</lastUpdated>
+    <lastUpdated>20240925165912</lastUpdated>
   </versioning>
 </metadata>
